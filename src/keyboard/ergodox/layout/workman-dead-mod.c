@@ -92,7 +92,7 @@ KB_MATRIX_LAYER(
     0,	0,	0,	0,	0,
     0,	0,
     0,	0,	0,
-    0,	0,	0
+    0,	0,	_comma
 ),
 // LAYER 2
 KB_MATRIX_LAYER(
@@ -166,7 +166,7 @@ KB_MATRIX_LAYER(
     ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
     ktrans,	ktrans,
     ktrans,	NULL,	NULL,
-    ktrans,	ktrans,	ktrans
+    ktrans,	ktrans,	kprrel
 ),
 // LAYER 2
 KB_MATRIX_LAYER(
@@ -240,7 +240,7 @@ KB_MATRIX_LAYER(
     ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
     ktrans,	ktrans,
     ktrans,	NULL,	NULL,
-    ktrans,	ktrans,	ktrans
+    ktrans,	ktrans,	kprrel
 ),
 // LAYER 2
 KB_MATRIX_LAYER(
