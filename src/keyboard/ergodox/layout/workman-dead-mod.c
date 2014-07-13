@@ -208,7 +208,7 @@ KB_MATRIX_LAYER(
     kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,
     kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,
     NULL,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,
-    kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	NULL,
+    kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,
     NULL,	kprrel,	NULL,	NULL,	NULL,
     NULL,	NULL,
     NULL,	NULL,	kprrel,
@@ -220,7 +220,7 @@ KB_MATRIX_LAYER(
     kprrel,	kprrel,	kprrel,	lsticky1,	kprrel,	kprrel,	kprrel,
     kprrel,	kprrel,	kprrel,	kprrel,	NULL,
     NULL,	NULL,
-    NULL,	NULL,	NULL,
+    kprrel,	NULL,	NULL,
     kprrel,	kprrel,	kprrel
 ),
 // LAYER 1
