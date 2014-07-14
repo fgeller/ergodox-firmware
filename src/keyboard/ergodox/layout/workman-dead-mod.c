@@ -240,7 +240,7 @@ KB_MATRIX_LAYER(
     ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
     ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
     ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,
-    ktrans,	sshprre,	kprrel,	kprrel,	kprrel,	kprrel,	ktrans,
+    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	ktrans,		ktrans,	ktrans,	ktrans,
     NULL,	NULL,
     ktrans,	NULL,	NULL,
