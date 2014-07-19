@@ -78,7 +78,7 @@ KB_MATRIX_LAYER(
     // left hand
     0,	0,			0,			0,			0,			0,		0,
     0,	_bracketR,	_bracketR,	_0,			_add_kp,	_2,		0,
-    0,	_bracketL,	_bracketL,	_9,			_equal_kp,	0,
+    0,	_bracketL,	_bracketL,	_9,			_equal_kp,	_5,
     0,	_comma,		_period,	_backslash,	_dash,		_dash,	0,
     0,	0,			0,			0,			0,
     // thumb block
@@ -88,7 +88,7 @@ KB_MATRIX_LAYER(
     // right hand
     0,	0,			0,			0,		0,	0,		0,
     0,	0,			0,			0,		0,	0,		0,
-    0,	0,			0,			0,		0,	0,
+    0,	_8,			_3,			_7,		_6,	0,
     0,	_semicolon,	_semicolon,	_slash,	_1,	_grave,	0,
     0,	0,			0,			0,		0,
     // thumb block
@@ -131,7 +131,7 @@ KB_MATRIX_LAYER(
     // left hand
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
     ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
-    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	ktrans,
+    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,
     ktrans,	sshprre,	sshprre,	sshprre,	kprrel,		sshprre,	ktrans,
     NULL,	ktrans,		ktrans,		ktrans,		ktrans,
     NULL,	NULL,
@@ -139,8 +139,8 @@ KB_MATRIX_LAYER(
     ktrans,	ktrans,	ktrans,
     // right hand
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-    ktrans,	ktrans,	ktrans,	ktrans,		ktrans,		ktrans,		ktrans,
-    ktrans,	ktrans,	ktrans,	ktrans,		ktrans,		ktrans,
+    ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
+    ktrans,	sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,
     NULL,	NULL,
@@ -182,18 +182,18 @@ KB_MATRIX_LAYER(
     // left hand
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
     ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
-    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	ktrans,
+    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,
     ktrans,	sshprre,	sshprre,	sshprre,	kprrel,		sshprre,	ktrans,
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,
     NULL,	NULL,
     NULL,	NULL,	ktrans,
     ktrans,	ktrans,	ktrans,
     // right hand
-    ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
-    ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,	ktrans,
-    ktrans,	ktrans,		ktrans,	ktrans,	ktrans,	ktrans,
+    ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
+    ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
+    ktrans,	sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
-    ktrans,	ktrans,		ktrans,	ktrans,	ktrans,
+    ktrans,	ktrans,		ktrans,		ktrans,		ktrans,
     NULL,	NULL,
     ktrans,	NULL,	NULL,
     ktrans,	ktrans,	kprrel
