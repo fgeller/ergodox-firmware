@@ -59,7 +59,7 @@ KB_MATRIX_LAYER(
     // thumb block
             0,		0,
     0,		0,		_altL,
-    _bs,	2,	_ctrlL,
+    _bs,	_esc,	_ctrlL,
     // right hand
     _equal,	_6,			_7,			_8,			_9,			_0,			_esc,
     _dash,	_J,			_F,			_U,			_P,			_semicolon,	0,
@@ -138,7 +138,7 @@ KB_MATRIX_LAYER(
     NULL,	NULL,	NULL,	NULL,	kprrel,
     NULL,	NULL,
     NULL,	NULL,	kprrel,
-    kprrel,	lsticky2,	kprrel,
+    kprrel,	kprrel,	kprrel,
     // right hand
     kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,
     kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	NULL,
@@ -212,7 +212,7 @@ KB_MATRIX_LAYER(
     NULL,	NULL,		NULL,	NULL,	kprrel,
     NULL,	NULL,
     NULL,	NULL,		kprrel,
-    kprrel,	lsticky2,	kprrel,
+    kprrel,	kprrel,		kprrel,
     // right hand
     kprrel,	kprrel,	kprrel,	kprrel,		kprrel,	kprrel,	kprrel,
     kprrel,	kprrel,	kprrel,	kprrel,		kprrel,	kprrel,	NULL,
