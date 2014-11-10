@@ -88,7 +88,7 @@ KB_MATRIX_LAYER(
     // right hand
     0,	0,			0,			0,		0,	0,		0,
     0,	0,			0,			0,		0,	0,		0,
-    0,	_8,			_3,			_7,		_6,	0,
+    0,	_semicolon,	_3,			_7,		_6,	0,
     0,	_semicolon,	_semicolon,	_slash,	_1,	_grave,	0,
     0,	0,			0,			0,		0,
     // thumb block
@@ -165,7 +165,7 @@ KB_MATRIX_LAYER(
     // right hand
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-    ktrans,	sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
+    ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	kprrel,		sshprre,	sshprre,	sshprre,	sshprre,	ktrans,
     ktrans,	ktrans,		ktrans,		ktrans,		ktrans,
     NULL,	NULL,
