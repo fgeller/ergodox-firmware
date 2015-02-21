@@ -65,7 +65,7 @@ KB_MATRIX_LAYER(
     _dash,	_J,			_F,			_U,			_P,			_semicolon,	0,
             _Y,			_N,			_E,			_O,			_I,			_quote,
     _guiR,  _K,			_L,			1,			_period,	_slash,		_shiftR,
-            _arrowU,	_arrowD,	_arrowL,	_arrowR, 0,
+    _arrowL, _arrowD,	_arrowU,	_arrowR, 0,
     // thumb block
     0,		0,
     _altR,	0,		0,
